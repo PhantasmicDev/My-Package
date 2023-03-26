@@ -1,0 +1,242 @@
+{
+  "sitemap": {
+    "changefreq": "weekly"
+  },
+  "homepages": [],
+  "source_base_path": "/home/runner/work/My-Package/My-Package/Documentation~",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../CHANGELOG.md",
+      "output": {
+        ".html": {
+          "relative_path": "CHANGELOG.html",
+          "hash": "yzwa0U85qjGaBiRPgVq2bnnEWnD1rgDiKE2oT3lEIuk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../LICENSE.md",
+      "output": {
+        ".html": {
+          "relative_path": "licenses/LICENSE.html",
+          "hash": "gYz67X3l74d6dTyJyuSda0X4XeIGdBIRiBbCiP8yJiQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../Third Party Notices.md",
+      "output": {
+        ".html": {
+          "relative_path": "licenses/Third Party Notices.html",
+          "hash": "wmvOSrFZaQjV+uo6Q7+RMa+HIpFwCt0E7yk1tuMWTsg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PhantasmicDev.UnityPackageTemplate.CharacterController2D.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PhantasmicDev.UnityPackageTemplate.CharacterController2D.html",
+          "hash": "OCQWxbfV35iSRVa1gpJzBy3aO953c/pqlHMyy8zVmcQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PhantasmicDev.UnityPackageTemplate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PhantasmicDev.UnityPackageTemplate.html",
+          "hash": "umsqdcWLmYy7xt9J2458EMiEbO2IrqG4ZMjAkE9LBCc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PhantasmicDev.UnityPackageTemplateEditor.CharacterControllerTool.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PhantasmicDev.UnityPackageTemplateEditor.CharacterControllerTool.html",
+          "hash": "haC8FOS669Ovn0PKdSjGohhjGCDe4nw5sow78yPdYWA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PhantasmicDev.UnityPackageTemplateEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PhantasmicDev.UnityPackageTemplateEditor.html",
+          "hash": "Tg/IgYk1LZ8msTYZMmBfmJcPMQ/kDHtNxC64AHyeIDo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "oPYlMVVroUjz4e3El5vE+qTo61U4UCdH0+CBZyG5Q0s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "JKw0vw02DgdqOFQ84Q7RZ4nBRgWq7LS9Hi9Hwzr46Jk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Toc",
+      "source_relative_path": "licenses/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "licenses/toc.html",
+          "hash": "pGbu8LLOSFW2alYsNYaHpThnROxGb7Jv8RO32mcGOSM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/getting-started.html",
+          "hash": "8yTzMp4OUvAt61PmiX9t1wGoBGdU8eG+ElMJAFKGi14="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/quickstart.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/quickstart.html",
+          "hash": "ZELOxX/ZobcV3+MH5wpwX0IAuKlX547F/gL3OtOcO3Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "manual/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "manual/toc.html",
+          "hash": "ufG0Cal7LGa3GbOB2oAP0IWMfTLoN2+JAi2McMXgdeA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "gA0lAhZo/adAS0az6W8r0URIFZ0ZD4ep6p6qSx7JPC4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 6,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 4,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

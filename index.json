@@ -1,0 +1,52 @@
+{
+  "api/PhantasmicDev.UnityPackageTemplate.CharacterController2D.html": {
+    "href": "api/PhantasmicDev.UnityPackageTemplate.CharacterController2D.html",
+    "title": "Class CharacterController2D | Package Template",
+    "keywords": "Class CharacterController2D Provides 2D character like movement to an object with collision information. This is an example class to show where scripts are place within the project folder. Scripts in this folder are compiled for use at runtime. Documentation on this script is purely to show off what generated documentation will look like. Inheritance object CharacterController2D Namespace: PhantasmicDev.UnityPackageTemplate Assembly: cs.temp.dll.dll Syntax public class CharacterController2D : MonoBehaviour Properties IsGrounded True if the character has contact with the ground. Declaration public bool IsGrounded { get; } Property Value Type Description bool MaxJumpCount The maximum jumps the character can perform before landing on the ground again. Declaration public int MaxJumpCount { get; } Property Value Type Description int MaxSpeed The maximum speed the character can move, in meters per second. Declaration public float MaxSpeed { get; } Property Value Type Description float Velocity The character's current velocity measured in units per second. Declaration public Vector2 Velocity { get; } Property Value Type Description Vector2 Methods IsFalling() Returns true if the character is descending vertically and is not grounded. Declaration public bool IsFalling() Returns Type Description bool Jump(float) Make the player jump in the next available physics step. Declaration public void Jump(float speed) Parameters Type Name Description float speed The initial speed to take off from the ground."
+  },
+  "api/PhantasmicDev.UnityPackageTemplate.html": {
+    "href": "api/PhantasmicDev.UnityPackageTemplate.html",
+    "title": "Namespace PhantasmicDev.UnityPackageTemplate | Package Template",
+    "keywords": "Namespace PhantasmicDev.UnityPackageTemplate Classes CharacterController2D Provides 2D character like movement to an object with collision information. This is an example class to show where scripts are place within the project folder. Scripts in this folder are compiled for use at runtime. Documentation on this script is purely to show off what generated documentation will look like."
+  },
+  "api/PhantasmicDev.UnityPackageTemplateEditor.CharacterControllerTool.html": {
+    "href": "api/PhantasmicDev.UnityPackageTemplateEditor.CharacterControllerTool.html",
+    "title": "Class CharacterControllerTool | Package Template",
+    "keywords": "Class CharacterControllerTool A utility class that adds Editor functionality when working with CharacterController2D instances in a scene. This is an example class to show where Editor scripts are place within the project folder. Other scripts in this folder do NOT get included in the final build. Inheritance object CharacterControllerTool Namespace: PhantasmicDev.UnityPackageTemplateEditor Assembly: cs.temp.dll.dll Syntax public static class CharacterControllerTool Methods SelectFirstCharacter() Selects the first CharacterController2D in the opened scene. Declaration public static void SelectFirstCharacter()"
+  },
+  "api/PhantasmicDev.UnityPackageTemplateEditor.html": {
+    "href": "api/PhantasmicDev.UnityPackageTemplateEditor.html",
+    "title": "Namespace PhantasmicDev.UnityPackageTemplateEditor | Package Template",
+    "keywords": "Namespace PhantasmicDev.UnityPackageTemplateEditor Classes CharacterControllerTool A utility class that adds Editor functionality when working with CharacterController2D instances in a scene. This is an example class to show where Editor scripts are place within the project folder. Other scripts in this folder do NOT get included in the final build."
+  },
+  "CHANGELOG.html": {
+    "href": "CHANGELOG.html",
+    "title": "Changelog | Package Template",
+    "keywords": "Changelog All notable changes to this project will be documented in this file. The format is based on Keep a Changelog, and this project adheres to Semantic Versioning. [Unreleased]"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "Unity Package Template | Package Template",
+    "keywords": "Unity Package Template Quickly get started developing your package for the Unity game engine with this template. The template provides you with the file structure and package.json required for Unity to recognize your package. Features Auto generate documentation and host on GitHub pages with provided GitHub workflow Easily rename your package with provided GitHub workflow"
+  },
+  "licenses/LICENSE.html": {
+    "href": "licenses/LICENSE.html",
+    "title": "| Package Template",
+    "keywords": "MIT License Copyright (c) 2022 Phantasmic Dev Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+  },
+  "licenses/Third Party Notices.html": {
+    "href": "licenses/Third Party Notices.html",
+    "title": "Third Party Notices | Package Template",
+    "keywords": "Third Party Notices"
+  },
+  "manual/getting-started.html": {
+    "href": "manual/getting-started.html",
+    "title": "Getting Started | Package Template",
+    "keywords": "Getting Started"
+  },
+  "manual/quickstart.html": {
+    "href": "manual/quickstart.html",
+    "title": "Quickstart | Package Template",
+    "keywords": "Quickstart Click the green 'Use this template' button from the template repository then click 'create a new repository' and fill in your new package's repo information. Note Make sure the 'include all branches' checkbox is NOT checked as development on this template happens on other branches. Create your own development branch after initializing your repo. Head to the 'Actions' tab, click on the 'Initialize' workflow, then click the 'Run workflow' dropdown and enter your Organization and Package Name and finally click the 'Run workflow' button. The workflow will initiate and once it's done, there will be recent commits that did a couple things: Edited assembly definition files Renamed the files Edited their content Edited package.json with provided package and organization name. Edited docfx.json so generated documentation has you package and organization name. Removed documentation for template repository Removed Initialization workflow (to prevent accidentally re-initializing your repo) You can now clone your repo into your Unity project's Packages folder and begin development on your package!"
+  }
+}
