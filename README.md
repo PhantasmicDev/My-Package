@@ -1,0 +1,2 @@
+# Package Template
+Use this template to develop packages for the [Unity game engine](https://unity.com/). This template gets you up and running by settings up the [layout](https://docs.unity3d.com/Manual/cus-layout.html) for your package. Checkout the documentation (generated using this template's workflow) for more details.

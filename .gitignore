@@ -1,0 +1,5 @@
+﻿.idea
+Documentation~/_site
+Documentation~/obj
+Documentation~/api
+*.DS_Store
